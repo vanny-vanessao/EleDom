@@ -1,5 +1,5 @@
 ## 1. Introdução  
-O EleDom é um sistema web desenvolvido para gerenciar ordens de serviço em empresas de assistência técnica. Ele permite registrar clientes, equipamentos e serviços, acompanhar o andamento das ordens e facilitar a comunicação entre técnicos e administração, tornando o processo mais organizado e eficiente.  
+O EleDom é um sistema web desenvolvido para gerenciar ordens de serviço para a empresa Eletrônica Domingos, localizada no sul de Santa Catarina, no município de Sombrio. Ele permite registrar ordens de serviço com clientes e aparelhos, acompanhar o andamento das ordens com atualização de status e visualizar ordens de serviço concluídas e canceladas, automatizando o processo de registros da empresa, anteriormente feito de forma manual.
 
 ## 2. Tecnologias Utilizadas  
 - **Backend:** Node.js e Express  
