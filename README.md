@@ -16,15 +16,16 @@ O EleDom é um sistema web desenvolvido para gerenciar ordens de serviço em emp
    npm install
 2. Configure o banco de dados MySQL e execute o script SQL.
 3. Crie um arquivo .env na raiz do projeto com as credenciais do banco e porta do servidor, por exemplo:
+   ```bash
    DB_HOST= localhost
    DB_USER= root
    DB_PASSWORD= sua_senha
    DB_NAME= EleDom
    PORT= 3000
-4. Inicie o servidor:
+5. Inicie o servidor:
    ```bash
    npm start
-5. Acesse no navegador: http://localhost:3000
+6. Acesse no navegador: http://localhost:3000
 
 ## 4. Funcionalidades Principais
 -  Cadastro e login de funcionários/usuários;
