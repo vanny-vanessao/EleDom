@@ -6,7 +6,6 @@ O EleDom é um sistema web desenvolvido para gerenciar ordens de serviço para a
 - **Frontend:** HTML5, CSS3, Bootstrap e EJS  
 - **Banco de Dados:** MySQL  
 - **Linguagem:** JavaScript  
-- **Arquitetura:** MVC (Model-View-Controller)  
 
 ## 3. Instalação  
 1. Clone o repositório:  
